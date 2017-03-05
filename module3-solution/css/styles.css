@@ -1,0 +1,43 @@
+.Chicken {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: 8px;
+	margin-left: 10%;
+	margin-right: 10%;
+	border-style: solid;
+	padding: 50px;
+	padding-top: 100px;
+	width: 80%;
+	height: 50%;
+	position: center;
+	vertical-align: middle;
+	text-align: center;
+	
+
+}
+#txtspan{
+font-size: 2vmin;
+  
+  top: 50%;
+  margin-top: -25vmin;
+  width: 100%;
+}
+.Chicken-title {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: -120px;
+	
+}
+
+.navbar-brand
+{
+	text-align: left;
+}
+
+
+
+.Food {
+	margin-top: -10px;
+}
+
+
